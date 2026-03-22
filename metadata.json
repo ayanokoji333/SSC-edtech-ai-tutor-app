@@ -1,0 +1,8 @@
+{
+  "name": "SCHOLAR - SSC AI Tutor",
+  "description": "Premium EdTech SaaS for SSC exam preparation with an integrated AI personal tutor, Netflix-style discovery, and gamified analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
